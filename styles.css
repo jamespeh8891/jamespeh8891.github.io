@@ -15,10 +15,24 @@ h2 {
 
 .nav {
  color: white;
- margin-top: -1000px;
  margin-left: 45px;
  justify-content: space-evenly;
  column-gap: 100px;
  text-decoration: underline;
  flex-direction: column;
+}
+
+h3 {
+    margin-left: 250px;
+    margin-top: -1200px;
+    font-size: xx-large;
+    text-decoration: underline;
+}
+
+.web-dev {
+    color: white;
+    margin-left: 300px;
+    margin-top: -75px;
+    font-size: larger;
+    color: black;
 }
