@@ -1,0 +1,24 @@
+body {
+    background-image: url(https://cutewallpaper.org/28/cool-light-grey-wallpaper/183217861.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-height: 1000px;
+}
+
+h2 {
+    background-color: black;
+    height: 1300px;
+    width: 200px;
+    margin-top: -25px;
+    margin-left: -8px;
+}
+
+.nav {
+ color: white;
+ margin-top: -1000px;
+ margin-left: 45px;
+ justify-content: space-evenly;
+ column-gap: 100px;
+ text-decoration: underline;
+ flex-direction: column;
+}
